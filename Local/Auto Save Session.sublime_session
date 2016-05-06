@@ -1,0 +1,1869 @@
+{
+	"folder_history":
+	[
+		"/home/mikes/development/issue-monitoring",
+		"/home/mikes/development/prologramv2",
+		"/home/xwave/development/incremental-api",
+		"/home/xwave/development/anadyr-prestashop",
+		"/home/xwave/development/es6-use-refs-to-access-components",
+		"/home/xwave/development/es6-test-state",
+		"/home/xwave/development/es6-test-prop",
+		"/home/xwave/development/react-counter",
+		"/home/xwave/development/es6-react",
+		"/home/xwave/development/react-todo",
+		"/home/xwave/development/vue",
+		"/home/xwave/development/unittesting",
+		"/home/xwave/Downloads/Lendia-master",
+		"/home/xwave/development/laravel",
+		"/home/xwave/development/calorimeter",
+		"/home/xwave/development/soho-newsletter",
+		"/home/xwave/development/canon-grecia-obiective",
+		"/home/xwave/development/canon-get-ready-for-the-moment",
+		"/home/xwave/development/nodetest1"
+	],
+	"last_version": 3103,
+	"last_window_id": 24,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Less",
+						"LessonTransformer"
+					],
+					[
+						"to",
+						"toArray"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"N",
+						"Newsletter"
+					],
+					[
+						"Read",
+						"ReactDOM"
+					],
+					[
+						"remo",
+						"removeMany"
+					],
+					[
+						"user",
+						"usersId"
+					],
+					[
+						"me",
+						"method"
+					],
+					[
+						"asser",
+						"assertEquals"
+					],
+					[
+						"ince",
+						"inchesTotal"
+					],
+					[
+						"r",
+						"round"
+					],
+					[
+						"bmi",
+						"bmiresult"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"pad",
+						"padding-top"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 255.0,
+				"last_filter": "Snippet: ",
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: Prototype"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"tabi",
+						"Tabify"
+					],
+					[
+						"extract",
+						"PackageResourceViewer: Extract Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"delete",
+						"ANF: Delete Current File"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"current",
+						"ANF: Delete Current File"
+					],
+					[
+						"make mi",
+						"Laravel Artisan 5: Make:Migration"
+					],
+					[
+						"mc",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"dele",
+						"ANF: Delete Current File"
+					],
+					[
+						"make",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"setter",
+						"Generate Setter for ..."
+					],
+					[
+						"generate",
+						"Generate Getter for ..."
+					],
+					[
+						"genera",
+						"PHP: Generate Getters"
+					],
+					[
+						"sta",
+						"View: Toggle Status Bar"
+					],
+					[
+						"delete cu",
+						"ANF: Delete Current File"
+					],
+					[
+						"rename",
+						"ANF: Rename File"
+					],
+					[
+						"tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"status",
+						"View: Toggle Status Bar"
+					],
+					[
+						"package res",
+						"PackageResourceViewer: Extract Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 338.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/mikes/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/xwave/development/incremental-api/app/Transformers/Transformer.php",
+				"/home/xwave/development/incremental-api/app/Lesson.php",
+				"/home/xwave/development/incremental-api/app/Transformers/LessonTransformer.php",
+				"/home/xwave/development/incremental-api/app/Http/Controllers/LessonsController.php",
+				"/home/xwave/development/incremental-api/app/Http/routes.php",
+				"/home/xwave/development/incremental-api/database/seeds/LessonsTableSeeder.php",
+				"/home/xwave/development/incremental-api/database/seeds/DatabaseSeeder.php",
+				"/home/xwave/development/incremental-api/database/migrations/2016_04_17_095219_create_lessons_table.php",
+				"/home/xwave/development/incremental-api/.env",
+				"/home/xwave/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/xwave/development/react-todo/js/bundle.js",
+				"/home/xwave/development/react-todo/js/main.js",
+				"/home/xwave/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/xwave/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/xwave/.config/sublime-text-3/Packages/Tabify/Tabify.sublime-commands",
+				"/home/xwave/.config/sublime-text-3/Packages/Tabify/README.md",
+				"/home/xwave/development/laravel/app/Http/Controllers/Person.php",
+				"/home/xwave/.config/sublime-text-3/Packages/User/builds/PSR-2.sublime-build",
+				"/home/xwave/development/laravel/database/migrations/2016_01_16_130721_add_colum_to_user_table.php",
+				"/home/xwave/development/laravel/app/Http/Controllers/Gigel.php",
+				"/home/xwave/.config/sublime-text-3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/home/xwave/.config/sublime-text-3/Packages/Origami/Default (Linux).sublime-keymap",
+				"/home/xwave/development/laravel/app/Http/routes.php",
+				"/home/xwave/.config/sublime-text-3/Packages/User/snippets/Protected Method.sublime-snippet",
+				"/home/xwave/.config/sublime-text-3/Packages/User/snippets/PHP method.sublime-snippet",
+				"/home/xwave/development/laravel/app/User.php",
+				"/home/xwave/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+				"/home/xwave/.config/sublime-text-3/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+				"/home/xwave/development/laravel/app/Http/Controllers/BarController.php",
+				"/home/xwave/development/laravel/app/Http/Controllers/FooController.php",
+				"/home/xwave/development/laravel/gigel.php",
+				"/home/xwave/development/laravel/app/Http/Controllers/NewController.php",
+				"/home/xwave/development/laravel/vendor/mockery/mockery/library/Mockery/Container.php",
+				"/home/xwave/development/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+				"/home/xwave/.config/sublime-text-3/Packages/Material Theme/Material-Theme.sublime-theme",
+				"/home/xwave/.config/sublime-text-3/Packages/Colorsublime - Themes/Facebook.tmTheme",
+				"/home/xwave/development/laravel/resources/assets/sass/app.scss",
+				"/home/xwave/development/laravel/resources/views/calculators/calculators.scss",
+				"/home/xwave/development/laravel/resources/views/home/searchform.blade.php",
+				"/home/xwave/development/laravel/resources/views/calculators/index.blade.php",
+				"/home/xwave/development/laravel/resources/views/calculators/chosecalculator.blade.php",
+				"/home/xwave/development/laravel/public/build/css/.gitignore",
+				"/home/xwave/development/laravel/resources/views/calculators/bmicalculator.blade.php",
+				"/home/xwave/development/laravel/public/css/libraries.css",
+				"/home/xwave/development/laravel/resources/views/home/home.scss",
+				"/home/xwave/development/laravel/resources/views/layouts/frontend/master.blade.php",
+				"/home/xwave/development/laravel/app/Http/Controllers/HomeController.php",
+				"/home/xwave/development/laravel/resources/views/food/product.blade.php",
+				"/home/xwave/development/laravel/resources/views/partials/frontend/navigation.blade.php",
+				"/home/xwave/development/laravel/resources/views/home/result.blade.php",
+				"/home/xwave/development/laravel/resources/views/home/index.blade.php",
+				"/home/xwave/development/laravel/app/Product.php",
+				"/home/xwave/development/laravel/gulpfile.js",
+				"/home/xwave/development/laravel/.env",
+				"/home/xwave/development/laravel/public/css/app.css",
+				"/home/xwave/development/laravel/resources/views/layouts/home/index.blade.php",
+				"/home/xwave/development/laravel/resources/views/partials/frontend/footer.blade.php",
+				"/home/xwave/development/laravel/node_modules/bootstrap-sass/bower.json",
+				"/home/xwave/development/calorimeter/resources/views/product.blade.php",
+				"/home/xwave/development/calorimeter/app/Http/Middleware/VerifyCsrfToken.php",
+				"/home/xwave/development/calorimeter/.env",
+				"/home/xwave/development/canon-get-ready-for-the-moment/.gitignore",
+				"/home/xwave/development/canon-get-ready-for-the-moment/.gitattributes",
+				"/home/xwave/development/soho-newsletter/db.php",
+				"/home/xwave/development/soho-newsletter/removeRejectedFromDb.php",
+				"/home/xwave/development/soho-newsletter/back_to_school_reject.txt",
+				"/home/xwave/development/soho-newsletter/.env.example",
+				"/home/xwave/development/nodetest1/routes/users.js",
+				"/home/xwave/development/nodetest1/package.json"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"lessons",
+					"homestead",
+					"div",
+					"informations_block_left_",
+					"=$",
+					"information",
+					"dorințe",
+					"dorin",
+					"buletin",
+					"dorin",
+					"buletin",
+					"dorin",
+					"dorinte",
+					"buletin",
+					"Widget",
+					"2",
+					"PROPERTY",
+					"name",
+					"sdf",
+					"ctrl+d",
+					"sdf",
+					"all",
+					"38415b",
+					"38, 50, 56",
+					"man",
+					"bmiresult",
+					"lendia",
+					"vcenter",
+					"justified",
+					"layouts",
+					"Caloriesmeter.ro",
+					"Lendia",
+					"circle-boy-te",
+					".preview-lens3",
+					"button-desc",
+					".text-intro",
+					"circle-boy",
+					".img-responsive"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"37, 43, 57",
+					"male",
+					"bmiresultmetric",
+					"Caloriesmeter.com",
+					"Caloriesmeter"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 76.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 204.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/builds/PSR-2.sublime-build",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"null.php",
+						"vendor/everyman/neo4jphp/lib/Everyman/Neo4j/Cache/Null.php"
+					],
+					[
+						"create",
+						"database/migrations/2016_04_17_095219_create_lessons_table.php"
+					],
+					[
+						"lessonse",
+						"database/seeds/LessonsTableSeeder.php"
+					],
+					[
+						"lessoncon",
+						"app/Http/Controllers/LessonsController.php"
+					],
+					[
+						"route",
+						"app/Http/routes.php"
+					],
+					[
+						"less",
+						"app/Lesson.php"
+					],
+					[
+						"",
+						"App.js"
+					],
+					[
+						"main",
+						"main.js"
+					],
+					[
+						"user",
+						"app/User.php"
+					],
+					[
+						"createus",
+						"database/migrations/2014_10_12_000000_create_users_table.php"
+					],
+					[
+						"migration/",
+						"database/migrations/2016_01_17_125602_create_teams_table.php"
+					],
+					[
+						"database/modelfa",
+						"database/factories/ModelFactory.php"
+					],
+					[
+						"team",
+						"app/Team.php"
+					],
+					[
+						"add_colu",
+						"database/migrations/2016_01_16_130721_add_colum_to_user_table.php"
+					],
+					[
+						"gigel",
+						"app/Http/Controllers/Gigel.php"
+					],
+					[
+						"contai",
+						"vendor/mockery/mockery/library/Mockery/Container.php"
+					],
+					[
+						"user.php",
+						"app/User.php"
+					],
+					[
+						"bower.json",
+						"node_modules/bootstrap-sass/bower.json"
+					],
+					[
+						"product_list",
+						"themes/default-bootstrap/css/product_list.css"
+					],
+					[
+						"global.css",
+						"themes/default-bootstrap/css/global.css"
+					],
+					[
+						"blocktopmenu",
+						"themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css"
+					],
+					[
+						"super",
+						"themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "calori",
+				"selected_items":
+				[
+					[
+						"calori",
+						"Caloriesmeter"
+					],
+					[
+						"isAli",
+						"isAlias"
+					]
+				],
+				"width": 1318.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 294.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Less",
+						"LessonTransformer"
+					],
+					[
+						"to",
+						"toArray"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"N",
+						"Newsletter"
+					],
+					[
+						"Read",
+						"ReactDOM"
+					],
+					[
+						"remo",
+						"removeMany"
+					],
+					[
+						"user",
+						"usersId"
+					],
+					[
+						"me",
+						"method"
+					],
+					[
+						"asser",
+						"assertEquals"
+					],
+					[
+						"ince",
+						"inchesTotal"
+					],
+					[
+						"r",
+						"round"
+					],
+					[
+						"bmi",
+						"bmiresult"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"pad",
+						"padding-top"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/mikes/development/prologramv2/php/login.php",
+					"settings":
+					{
+						"buffer_size": 1432,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<?php\nnamespace Everyman\\Neo4j\\Cache;\n\nuse Everyman\\Neo4j\\Cache;\n\n/**\n * Cache that always indicates success but does not store anything\n */\nclass Null implements Cache\n{\n	/**\n	 * Delete always succeeds\n	 *\n	 * @param string $key\n	 * @return boolean true on success\n	 */\n	public function delete($key)\n	{\n		return true;\n	}\n\n	/**\n	 * Always false, since no value is stored\n	 *\n	 * @param string $key\n	 * @return mixed\n	 */\n	public function get($key)\n	{\n		return false;\n	}\n\n	/**\n	 * Always indicates success, but does not actually store value\n	 *\n	 * @param string $key\n	 * @param mixed $value\n	 * @param integer $expire\n	 * @return boolean true on success\n	 */\n	public function set($key, $value, $expire=0)\n	{\n		return true;\n	}\n}\n",
+					"file": "/home/mikes/development/prologramv2/vendor/everyman/neo4jphp/lib/Everyman/Neo4j/Cache/Null.php",
+					"file_size": 728,
+					"file_write_time": 131069957196226467,
+					"settings":
+					{
+						"buffer_size": 728,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mikes/development/prologramv2/php/config/client.php",
+					"settings":
+					{
+						"buffer_size": 600,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 255.0,
+				"last_filter": "Snippet: ",
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: Prototype"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"tabi",
+						"Tabify"
+					],
+					[
+						"extract",
+						"PackageResourceViewer: Extract Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"delete",
+						"ANF: Delete Current File"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"current",
+						"ANF: Delete Current File"
+					],
+					[
+						"make mi",
+						"Laravel Artisan 5: Make:Migration"
+					],
+					[
+						"mc",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"dele",
+						"ANF: Delete Current File"
+					],
+					[
+						"make",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"setter",
+						"Generate Setter for ..."
+					],
+					[
+						"generate",
+						"Generate Getter for ..."
+					],
+					[
+						"genera",
+						"PHP: Generate Getters"
+					],
+					[
+						"sta",
+						"View: Toggle Status Bar"
+					],
+					[
+						"delete cu",
+						"ANF: Delete Current File"
+					],
+					[
+						"rename",
+						"ANF: Rename File"
+					],
+					[
+						"tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"status",
+						"View: Toggle Status Bar"
+					],
+					[
+						"package res",
+						"PackageResourceViewer: Extract Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 338.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/mikes/development/prologramv2",
+				"/home/mikes/development/prologramv2/php",
+				"/home/mikes/development/prologramv2/php/config"
+			],
+			"file_history":
+			[
+				"/home/mikes/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/xwave/development/incremental-api/app/Transformers/Transformer.php",
+				"/home/xwave/development/incremental-api/app/Lesson.php",
+				"/home/xwave/development/incremental-api/app/Transformers/LessonTransformer.php",
+				"/home/xwave/development/incremental-api/app/Http/Controllers/LessonsController.php",
+				"/home/xwave/development/incremental-api/app/Http/routes.php",
+				"/home/xwave/development/incremental-api/database/seeds/LessonsTableSeeder.php",
+				"/home/xwave/development/incremental-api/database/seeds/DatabaseSeeder.php",
+				"/home/xwave/development/incremental-api/database/migrations/2016_04_17_095219_create_lessons_table.php",
+				"/home/xwave/development/incremental-api/.env",
+				"/home/xwave/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/xwave/development/react-todo/js/bundle.js",
+				"/home/xwave/development/react-todo/js/main.js",
+				"/home/xwave/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/xwave/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/xwave/.config/sublime-text-3/Packages/Tabify/Tabify.sublime-commands",
+				"/home/xwave/.config/sublime-text-3/Packages/Tabify/README.md",
+				"/home/xwave/development/laravel/app/Http/Controllers/Person.php",
+				"/home/xwave/.config/sublime-text-3/Packages/User/builds/PSR-2.sublime-build",
+				"/home/xwave/development/laravel/database/migrations/2016_01_16_130721_add_colum_to_user_table.php",
+				"/home/xwave/development/laravel/app/Http/Controllers/Gigel.php",
+				"/home/xwave/.config/sublime-text-3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/home/xwave/.config/sublime-text-3/Packages/Origami/Default (Linux).sublime-keymap",
+				"/home/xwave/development/laravel/app/Http/routes.php",
+				"/home/xwave/.config/sublime-text-3/Packages/User/snippets/Protected Method.sublime-snippet",
+				"/home/xwave/.config/sublime-text-3/Packages/User/snippets/PHP method.sublime-snippet",
+				"/home/xwave/development/laravel/app/User.php",
+				"/home/xwave/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+				"/home/xwave/.config/sublime-text-3/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+				"/home/xwave/development/laravel/app/Http/Controllers/BarController.php",
+				"/home/xwave/development/laravel/app/Http/Controllers/FooController.php",
+				"/home/xwave/development/laravel/gigel.php",
+				"/home/xwave/development/laravel/app/Http/Controllers/NewController.php",
+				"/home/xwave/development/laravel/vendor/mockery/mockery/library/Mockery/Container.php",
+				"/home/xwave/development/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+				"/home/xwave/.config/sublime-text-3/Packages/Material Theme/Material-Theme.sublime-theme",
+				"/home/xwave/.config/sublime-text-3/Packages/Colorsublime - Themes/Facebook.tmTheme",
+				"/home/xwave/development/laravel/resources/assets/sass/app.scss",
+				"/home/xwave/development/laravel/resources/views/calculators/calculators.scss",
+				"/home/xwave/development/laravel/resources/views/home/searchform.blade.php",
+				"/home/xwave/development/laravel/resources/views/calculators/index.blade.php",
+				"/home/xwave/development/laravel/resources/views/calculators/chosecalculator.blade.php",
+				"/home/xwave/development/laravel/public/build/css/.gitignore",
+				"/home/xwave/development/laravel/resources/views/calculators/bmicalculator.blade.php",
+				"/home/xwave/development/laravel/public/css/libraries.css",
+				"/home/xwave/development/laravel/resources/views/home/home.scss",
+				"/home/xwave/development/laravel/resources/views/layouts/frontend/master.blade.php",
+				"/home/xwave/development/laravel/app/Http/Controllers/HomeController.php",
+				"/home/xwave/development/laravel/resources/views/food/product.blade.php",
+				"/home/xwave/development/laravel/resources/views/partials/frontend/navigation.blade.php",
+				"/home/xwave/development/laravel/resources/views/home/result.blade.php",
+				"/home/xwave/development/laravel/resources/views/home/index.blade.php",
+				"/home/xwave/development/laravel/app/Product.php",
+				"/home/xwave/development/laravel/gulpfile.js",
+				"/home/xwave/development/laravel/.env",
+				"/home/xwave/development/laravel/public/css/app.css",
+				"/home/xwave/development/laravel/resources/views/layouts/home/index.blade.php",
+				"/home/xwave/development/laravel/resources/views/partials/frontend/footer.blade.php",
+				"/home/xwave/development/laravel/node_modules/bootstrap-sass/bower.json",
+				"/home/xwave/development/calorimeter/resources/views/product.blade.php",
+				"/home/xwave/development/calorimeter/app/Http/Middleware/VerifyCsrfToken.php",
+				"/home/xwave/development/calorimeter/.env",
+				"/home/xwave/development/canon-get-ready-for-the-moment/.gitignore",
+				"/home/xwave/development/canon-get-ready-for-the-moment/.gitattributes",
+				"/home/xwave/development/soho-newsletter/db.php",
+				"/home/xwave/development/soho-newsletter/removeRejectedFromDb.php",
+				"/home/xwave/development/soho-newsletter/back_to_school_reject.txt",
+				"/home/xwave/development/soho-newsletter/.env.example",
+				"/home/xwave/development/nodetest1/routes/users.js",
+				"/home/xwave/development/nodetest1/package.json"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"lessons",
+					"homestead",
+					"div",
+					"informations_block_left_",
+					"=$",
+					"information",
+					"dorințe",
+					"dorin",
+					"buletin",
+					"dorin",
+					"buletin",
+					"dorin",
+					"dorinte",
+					"buletin",
+					"Widget",
+					"2",
+					"PROPERTY",
+					"name",
+					"sdf",
+					"ctrl+d",
+					"sdf",
+					"all",
+					"38415b",
+					"38, 50, 56",
+					"man",
+					"bmiresult",
+					"lendia",
+					"vcenter",
+					"justified",
+					"layouts",
+					"Caloriesmeter.ro",
+					"Lendia",
+					"circle-boy-te",
+					".preview-lens3",
+					"button-desc",
+					".text-intro",
+					"circle-boy",
+					".img-responsive"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"37, 43, 57",
+					"male",
+					"bmiresultmetric",
+					"Caloriesmeter.com",
+					"Caloriesmeter"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/mikes/development/prologramv2"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/mikes/development/prologramv2/php/login.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1432,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										785,
+										785
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 84.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/mikes/development/prologramv2/vendor/everyman/neo4jphp/lib/Everyman/Neo4j/Cache/Null.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 728,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										290,
+										290
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/mikes/development/prologramv2/php/config/client.php",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 600,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 76.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 204.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/builds/PSR-2.sublime-build",
+			"position": "0,1,0,0,0,955,24,1595,504,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"null.php",
+						"vendor/everyman/neo4jphp/lib/Everyman/Neo4j/Cache/Null.php"
+					],
+					[
+						"create",
+						"database/migrations/2016_04_17_095219_create_lessons_table.php"
+					],
+					[
+						"lessonse",
+						"database/seeds/LessonsTableSeeder.php"
+					],
+					[
+						"lessoncon",
+						"app/Http/Controllers/LessonsController.php"
+					],
+					[
+						"route",
+						"app/Http/routes.php"
+					],
+					[
+						"less",
+						"app/Lesson.php"
+					],
+					[
+						"",
+						"App.js"
+					],
+					[
+						"main",
+						"main.js"
+					],
+					[
+						"user",
+						"app/User.php"
+					],
+					[
+						"createus",
+						"database/migrations/2014_10_12_000000_create_users_table.php"
+					],
+					[
+						"migration/",
+						"database/migrations/2016_01_17_125602_create_teams_table.php"
+					],
+					[
+						"database/modelfa",
+						"database/factories/ModelFactory.php"
+					],
+					[
+						"team",
+						"app/Team.php"
+					],
+					[
+						"add_colu",
+						"database/migrations/2016_01_16_130721_add_colum_to_user_table.php"
+					],
+					[
+						"gigel",
+						"app/Http/Controllers/Gigel.php"
+					],
+					[
+						"contai",
+						"vendor/mockery/mockery/library/Mockery/Container.php"
+					],
+					[
+						"user.php",
+						"app/User.php"
+					],
+					[
+						"bower.json",
+						"node_modules/bootstrap-sass/bower.json"
+					],
+					[
+						"product_list",
+						"themes/default-bootstrap/css/product_list.css"
+					],
+					[
+						"global.css",
+						"themes/default-bootstrap/css/global.css"
+					],
+					[
+						"blocktopmenu",
+						"themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css"
+					],
+					[
+						"super",
+						"themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "calori",
+				"selected_items":
+				[
+					[
+						"calori",
+						"Caloriesmeter"
+					],
+					[
+						"isAli",
+						"isAlias"
+					]
+				],
+				"width": 1318.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 294.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 23,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Less",
+						"LessonTransformer"
+					],
+					[
+						"to",
+						"toArray"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"N",
+						"Newsletter"
+					],
+					[
+						"Read",
+						"ReactDOM"
+					],
+					[
+						"remo",
+						"removeMany"
+					],
+					[
+						"user",
+						"usersId"
+					],
+					[
+						"me",
+						"method"
+					],
+					[
+						"asser",
+						"assertEquals"
+					],
+					[
+						"ince",
+						"inchesTotal"
+					],
+					[
+						"r",
+						"round"
+					],
+					[
+						"bmi",
+						"bmiresult"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"pad",
+						"padding-top"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/mikes/development/issue-monitoring/app/Http/Controllers/DocumentController.php",
+					"settings":
+					{
+						"buffer_size": 3027,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<?php\n\nnamespace Issue;\n\nuse Illuminate\\Database\\Eloquent\\Model;\nuse Storage;\n\nconst DOCUMENTS_LOCATION = '/documents/';\n\nclass Document extends Model\n{\n	use \\Dimsav\\Translatable\\Translatable;\n	use \\Issue\\HasSearchTable;\n\n	protected $searchTable = 'documents_search';\n\n	protected $with = ['file'];\n\n	public $translatedAttributes = ['title'];\n\n	public $dates = ['init_at'];\n\n	protected $guarded = ['id'];\n\n	public function file()\n	{\n		return $this->belongsTo('Issue\\UploadedFile', 'uploaded_file_id');\n	}\n\n	public function createPublicCode()\n	{\n		do {\n			$public_code = str_random(40);\n		} while ($this->where('public_code', $public_code)->count() > 0);\n\n		return $public_code;\n	}\n\n	public static function getByPublicCode($code)\n	{\n		$instance = new static;\n\n		return $instance->where('public_code', $code)->firstOrFail();\n	}\n\n	public function fillDocument($request)\n	{\n		Storage::makeDirectory(DOCUMENTS_LOCATION);\n\n		$this->init_at = $request->get('date');\n\n		if (! $this->public_code) {\n			$this->public_code = $this->createPublicCode();\n		}\n		$this->public = true;\n\n		if ($request->file('file')) {\n			if ($this->file) {\n				$this->file->delete();\n			}\n\n			$file = new UploadedFile;\n			$file->storeFile(DOCUMENTS_LOCATION, $request->file('file'));\n			$this->file()->associate($file);\n		}\n\n		foreach (\\Config::get('app.all_locales') as $locale) {\n			$this->translateOrNew($locale)->title = $request->get('title')[$locale];\n		}\n\n		$this->save();\n	}\n\n	public function connectedDocumentIssues()\n	{\n		return $this->belongsToMany('Issue\\Issue');\n	}\n\n	public function steps()\n	{\n		return $this->belongsToMany('Issue\\FlowStep');\n	}\n}\n",
+					"file": "/home/mikes/development/issue-monitoring/app/Document.php",
+					"file_size": 1628,
+					"file_write_time": 131063291363767058,
+					"settings":
+					{
+						"buffer_size": 1628,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix",
+						"name": ":b"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 255.0,
+				"last_filter": "Snippet: ",
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: Prototype"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"tabi",
+						"Tabify"
+					],
+					[
+						"extract",
+						"PackageResourceViewer: Extract Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"delete",
+						"ANF: Delete Current File"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"current",
+						"ANF: Delete Current File"
+					],
+					[
+						"make mi",
+						"Laravel Artisan 5: Make:Migration"
+					],
+					[
+						"mc",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"dele",
+						"ANF: Delete Current File"
+					],
+					[
+						"make",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"setter",
+						"Generate Setter for ..."
+					],
+					[
+						"generate",
+						"Generate Getter for ..."
+					],
+					[
+						"genera",
+						"PHP: Generate Getters"
+					],
+					[
+						"sta",
+						"View: Toggle Status Bar"
+					],
+					[
+						"delete cu",
+						"ANF: Delete Current File"
+					],
+					[
+						"rename",
+						"ANF: Rename File"
+					],
+					[
+						"tabs",
+						"View: Toggle Tabs"
+					],
+					[
+						"status",
+						"View: Toggle Status Bar"
+					],
+					[
+						"package res",
+						"PackageResourceViewer: Extract Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 338.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/mikes/development/issue-monitoring"
+			],
+			"file_history":
+			[
+				"/home/mikes/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/xwave/development/incremental-api/app/Transformers/Transformer.php",
+				"/home/xwave/development/incremental-api/app/Lesson.php",
+				"/home/xwave/development/incremental-api/app/Transformers/LessonTransformer.php",
+				"/home/xwave/development/incremental-api/app/Http/Controllers/LessonsController.php",
+				"/home/xwave/development/incremental-api/app/Http/routes.php",
+				"/home/xwave/development/incremental-api/database/seeds/LessonsTableSeeder.php",
+				"/home/xwave/development/incremental-api/database/seeds/DatabaseSeeder.php",
+				"/home/xwave/development/incremental-api/database/migrations/2016_04_17_095219_create_lessons_table.php",
+				"/home/xwave/development/incremental-api/.env",
+				"/home/xwave/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/xwave/development/react-todo/js/bundle.js",
+				"/home/xwave/development/react-todo/js/main.js",
+				"/home/xwave/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/xwave/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/xwave/.config/sublime-text-3/Packages/Tabify/Tabify.sublime-commands",
+				"/home/xwave/.config/sublime-text-3/Packages/Tabify/README.md",
+				"/home/xwave/development/laravel/app/Http/Controllers/Person.php",
+				"/home/xwave/.config/sublime-text-3/Packages/User/builds/PSR-2.sublime-build",
+				"/home/xwave/development/laravel/database/migrations/2016_01_16_130721_add_colum_to_user_table.php",
+				"/home/xwave/development/laravel/app/Http/Controllers/Gigel.php",
+				"/home/xwave/.config/sublime-text-3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/home/xwave/.config/sublime-text-3/Packages/Origami/Default (Linux).sublime-keymap",
+				"/home/xwave/development/laravel/app/Http/routes.php",
+				"/home/xwave/.config/sublime-text-3/Packages/User/snippets/Protected Method.sublime-snippet",
+				"/home/xwave/.config/sublime-text-3/Packages/User/snippets/PHP method.sublime-snippet",
+				"/home/xwave/development/laravel/app/User.php",
+				"/home/xwave/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+				"/home/xwave/.config/sublime-text-3/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+				"/home/xwave/development/laravel/app/Http/Controllers/BarController.php",
+				"/home/xwave/development/laravel/app/Http/Controllers/FooController.php",
+				"/home/xwave/development/laravel/gigel.php",
+				"/home/xwave/development/laravel/app/Http/Controllers/NewController.php",
+				"/home/xwave/development/laravel/vendor/mockery/mockery/library/Mockery/Container.php",
+				"/home/xwave/development/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+				"/home/xwave/.config/sublime-text-3/Packages/Material Theme/Material-Theme.sublime-theme",
+				"/home/xwave/.config/sublime-text-3/Packages/Colorsublime - Themes/Facebook.tmTheme",
+				"/home/xwave/development/laravel/resources/assets/sass/app.scss",
+				"/home/xwave/development/laravel/resources/views/calculators/calculators.scss",
+				"/home/xwave/development/laravel/resources/views/home/searchform.blade.php",
+				"/home/xwave/development/laravel/resources/views/calculators/index.blade.php",
+				"/home/xwave/development/laravel/resources/views/calculators/chosecalculator.blade.php",
+				"/home/xwave/development/laravel/public/build/css/.gitignore",
+				"/home/xwave/development/laravel/resources/views/calculators/bmicalculator.blade.php",
+				"/home/xwave/development/laravel/public/css/libraries.css",
+				"/home/xwave/development/laravel/resources/views/home/home.scss",
+				"/home/xwave/development/laravel/resources/views/layouts/frontend/master.blade.php",
+				"/home/xwave/development/laravel/app/Http/Controllers/HomeController.php",
+				"/home/xwave/development/laravel/resources/views/food/product.blade.php",
+				"/home/xwave/development/laravel/resources/views/partials/frontend/navigation.blade.php",
+				"/home/xwave/development/laravel/resources/views/home/result.blade.php",
+				"/home/xwave/development/laravel/resources/views/home/index.blade.php",
+				"/home/xwave/development/laravel/app/Product.php",
+				"/home/xwave/development/laravel/gulpfile.js",
+				"/home/xwave/development/laravel/.env",
+				"/home/xwave/development/laravel/public/css/app.css",
+				"/home/xwave/development/laravel/resources/views/layouts/home/index.blade.php",
+				"/home/xwave/development/laravel/resources/views/partials/frontend/footer.blade.php",
+				"/home/xwave/development/laravel/node_modules/bootstrap-sass/bower.json",
+				"/home/xwave/development/calorimeter/resources/views/product.blade.php",
+				"/home/xwave/development/calorimeter/app/Http/Middleware/VerifyCsrfToken.php",
+				"/home/xwave/development/calorimeter/.env",
+				"/home/xwave/development/canon-get-ready-for-the-moment/.gitignore",
+				"/home/xwave/development/canon-get-ready-for-the-moment/.gitattributes",
+				"/home/xwave/development/soho-newsletter/db.php",
+				"/home/xwave/development/soho-newsletter/removeRejectedFromDb.php",
+				"/home/xwave/development/soho-newsletter/back_to_school_reject.txt",
+				"/home/xwave/development/soho-newsletter/.env.example",
+				"/home/xwave/development/nodetest1/routes/users.js",
+				"/home/xwave/development/nodetest1/package.json"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"fillDocument",
+					"lessons",
+					"homestead",
+					"div",
+					"informations_block_left_",
+					"=$",
+					"information",
+					"dorințe",
+					"dorin",
+					"buletin",
+					"dorin",
+					"buletin",
+					"dorin",
+					"dorinte",
+					"buletin",
+					"Widget",
+					"2",
+					"PROPERTY",
+					"name",
+					"sdf",
+					"ctrl+d",
+					"sdf",
+					"all",
+					"38415b",
+					"38, 50, 56",
+					"man",
+					"bmiresult",
+					"lendia",
+					"vcenter",
+					"justified",
+					"layouts",
+					"Caloriesmeter.ro",
+					"Lendia",
+					"circle-boy-te",
+					".preview-lens3",
+					"button-desc",
+					".text-intro",
+					"circle-boy",
+					".img-responsive"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"37, 43, 57",
+					"male",
+					"bmiresultmetric",
+					"Caloriesmeter.com",
+					"Caloriesmeter"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/mikes/development/issue-monitoring"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/mikes/development/issue-monitoring/app/Http/Controllers/DocumentController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3027,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1501,
+										1501
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1512.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/mikes/development/issue-monitoring/app/Document.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1628,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										843,
+										843
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 957.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": ":b",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 76.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 204.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/builds/PSR-2.sublime-build",
+			"position": "0,0,0,0,0,192,218,1492,889,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"docuco",
+						"app/Http/Controllers/DocumentController.php"
+					],
+					[
+						"null.php",
+						"vendor/everyman/neo4jphp/lib/Everyman/Neo4j/Cache/Null.php"
+					],
+					[
+						"create",
+						"database/migrations/2016_04_17_095219_create_lessons_table.php"
+					],
+					[
+						"lessonse",
+						"database/seeds/LessonsTableSeeder.php"
+					],
+					[
+						"lessoncon",
+						"app/Http/Controllers/LessonsController.php"
+					],
+					[
+						"route",
+						"app/Http/routes.php"
+					],
+					[
+						"less",
+						"app/Lesson.php"
+					],
+					[
+						"",
+						"App.js"
+					],
+					[
+						"main",
+						"main.js"
+					],
+					[
+						"user",
+						"app/User.php"
+					],
+					[
+						"createus",
+						"database/migrations/2014_10_12_000000_create_users_table.php"
+					],
+					[
+						"migration/",
+						"database/migrations/2016_01_17_125602_create_teams_table.php"
+					],
+					[
+						"database/modelfa",
+						"database/factories/ModelFactory.php"
+					],
+					[
+						"team",
+						"app/Team.php"
+					],
+					[
+						"add_colu",
+						"database/migrations/2016_01_16_130721_add_colum_to_user_table.php"
+					],
+					[
+						"gigel",
+						"app/Http/Controllers/Gigel.php"
+					],
+					[
+						"contai",
+						"vendor/mockery/mockery/library/Mockery/Container.php"
+					],
+					[
+						"user.php",
+						"app/User.php"
+					],
+					[
+						"bower.json",
+						"node_modules/bootstrap-sass/bower.json"
+					],
+					[
+						"product_list",
+						"themes/default-bootstrap/css/product_list.css"
+					],
+					[
+						"global.css",
+						"themes/default-bootstrap/css/global.css"
+					],
+					[
+						"blocktopmenu",
+						"themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css"
+					],
+					[
+						"super",
+						"themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 354.0,
+				"last_filter": "calori",
+				"selected_items":
+				[
+					[
+						"calori",
+						"Caloriesmeter"
+					],
+					[
+						"isAli",
+						"isAlias"
+					]
+				],
+				"width": 1318.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 294.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 24,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

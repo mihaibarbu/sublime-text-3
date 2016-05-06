@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+constructor() {
+    super();
+    this.state = {${1}: ${2:''}}
+    this.update = this.update.bind(this)
+}
+update(e) {
+    this.setState({$1: e.target.value})
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>constructor</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>
