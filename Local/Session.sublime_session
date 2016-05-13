@@ -1,6 +1,9 @@
 {
 	"folder_history":
 	[
+		"/home/mikes/development/trimpact-form",
+		"/home/mikes/development/issue-monitoring",
+		"/home/mikes/development/prologramv2",
 		"/home/xwave/development/incremental-api",
 		"/home/xwave/development/anadyr-prestashop",
 		"/home/xwave/development/es6-use-refs-to-access-components",
@@ -19,8 +22,8 @@
 		"/home/xwave/development/canon-get-ready-for-the-moment",
 		"/home/xwave/development/nodetest1"
 	],
-	"last_version": 3103,
-	"last_window_id": 22,
+	"last_version": 3114,
+	"last_window_id": 26,
 	"log_indexing": false,
 	"settings":
 	{
@@ -31,6 +34,34 @@
 			{
 				"selected_items":
 				[
+					[
+						"form",
+						"form-group"
+					],
+					[
+						"for",
+						"form-group"
+					],
+					[
+						"check",
+						"checkbox"
+					],
+					[
+						"text",
+						"textarea"
+					],
+					[
+						"class",
+						"className"
+					],
+					[
+						"Less",
+						"LessonTransformer"
+					],
+					[
+						"to",
+						"toArray"
+					],
 					[
 						"N",
 						"Newsletter"
@@ -58,10 +89,6 @@
 					[
 						"ince",
 						"inchesTotal"
-					],
-					[
-						"to",
-						"totalIn"
 					],
 					[
 						"r",
@@ -95,10 +122,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 255.0,
-				"last_filter": "Snippet: ",
+				"height": 354.0,
+				"last_filter": "install",
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"Snippet: ",
 						"Snippet: Prototype"
@@ -118,10 +149,6 @@
 					[
 						"extract",
 						"PackageResourceViewer: Extract Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"delete",
@@ -192,7 +219,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 338.0
+				"width": 449.0
 			},
 			"console":
 			{
@@ -213,11 +240,23 @@
 			},
 			"file_history":
 			[
+				"/home/mikes/development/trimpact-form/public/build/index.js",
+				"/home/mikes/development/trimpact-form/.gitignore",
+				"/home/mikes/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/xwave/development/incremental-api/app/Transformers/Transformer.php",
+				"/home/xwave/development/incremental-api/app/Lesson.php",
+				"/home/xwave/development/incremental-api/app/Transformers/LessonTransformer.php",
+				"/home/xwave/development/incremental-api/app/Http/Controllers/LessonsController.php",
+				"/home/xwave/development/incremental-api/app/Http/routes.php",
+				"/home/xwave/development/incremental-api/database/seeds/LessonsTableSeeder.php",
+				"/home/xwave/development/incremental-api/database/seeds/DatabaseSeeder.php",
+				"/home/xwave/development/incremental-api/database/migrations/2016_04_17_095219_create_lessons_table.php",
+				"/home/xwave/development/incremental-api/.env",
+				"/home/xwave/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/home/xwave/development/react-todo/js/bundle.js",
 				"/home/xwave/development/react-todo/js/main.js",
 				"/home/xwave/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
 				"/home/xwave/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
-				"/home/xwave/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/home/xwave/.config/sublime-text-3/Packages/Tabify/Tabify.sublime-commands",
 				"/home/xwave/.config/sublime-text-3/Packages/Tabify/README.md",
 				"/home/xwave/development/laravel/app/Http/Controllers/Person.php",
@@ -290,6 +329,26 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"conso",
+					"code",
+					"id",
+					"h3",
+					"leading",
+					"Reading",
+					"Camping",
+					"Fishing",
+					"Rollerblading",
+					"file",
+					"sequence",
+					"leading",
+					"code",
+					"name",
+					"organizatie",
+					"persoana",
+					"class",
+					"app",
+					"lessons",
+					"homestead",
 					"div",
 					"informations_block_left_",
 					"=$",
@@ -375,6 +434,34 @@
 				"selected_items":
 				[
 					[
+						"index",
+						"public/index.html"
+					],
+					[
+						"null.php",
+						"vendor/everyman/neo4jphp/lib/Everyman/Neo4j/Cache/Null.php"
+					],
+					[
+						"create",
+						"database/migrations/2016_04_17_095219_create_lessons_table.php"
+					],
+					[
+						"lessonse",
+						"database/seeds/LessonsTableSeeder.php"
+					],
+					[
+						"lessoncon",
+						"app/Http/Controllers/LessonsController.php"
+					],
+					[
+						"route",
+						"app/Http/routes.php"
+					],
+					[
+						"less",
+						"app/Lesson.php"
+					],
+					[
 						"",
 						"App.js"
 					],
@@ -409,10 +496,6 @@
 					[
 						"gigel",
 						"app/Http/Controllers/Gigel.php"
-					],
-					[
-						"route",
-						"app/Http/routes.php"
 					],
 					[
 						"contai",
@@ -491,16 +574,52 @@
 				"selected_items":
 				[
 					[
+						"sttu",
+						"statusIndex"
+					],
+					[
+						"status",
+						"statusIndex"
+					],
+					[
+						"Form",
+						"formInstance"
+					],
+					[
+						"Fo",
+						"FormControl"
+					],
+					[
+						"co",
+						"components"
+					],
+					[
+						"form",
+						"form-group"
+					],
+					[
+						"for",
+						"form-group"
+					],
+					[
+						"check",
+						"checkbox"
+					],
+					[
+						"text",
+						"textarea"
+					],
+					[
+						"class",
+						"className"
+					],
+					[
 						"Less",
 						"LessonTransformer"
 					],
 					[
 						"to",
 						"toArray"
-					],
-					[
-						"for",
-						"foreach	foreach …"
 					],
 					[
 						"N",
@@ -559,14 +678,128 @@
 			"buffers":
 			[
 				{
-					"contents": "Package Control Messages\n========================\n\nMaterial Theme\n--------------\n\n  Material Theme for Sublime Text 3\n  https://github.com/equinusocio/material-theme\n  \n  👉 Version 2.1.3 👈\n  ********************************************************************************\n  \n  🏮 UI THEME\n  \n    ➼ New .pug file icon (Jade will be renamed Pug, more info here https://github.com/pugjs/pug/issues/2184)\n    ➼ Fix some filetype icons.\n  \n  \n  🏮 COLOR SCHEMES\n  \n    ➼ Fix italic comments for the dark scheme\n    ➼ Fix/add italic html tag attributes\n    ➼ Remove italic style from css classnames\n\n  Material Theme for Sublime Text 3\n  https://github.com/equinusocio/material-theme\n  \n  👉 Version 2.1.2 👈\n  ********************************************************************************\n  \n  🏮 UI THEME\n  \n    ➼ New .jade file icon\n    ➼ Fix some file icons\n    ➼ Fix \"material_theme_disable_folder_animation\" folder color with the new accent colors\n  \n  \n  🏮 COLOR SCHEME\n    ➼ Update Oceanic Next color schemes\n    ➼ Add italic style to code comments\n    ➼ Add italic style to the html attributes\n",
+					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>Trimpact</title>\n</head>\n<body>\n    <div id=\"container\"></div>\n    <script src=\"index.js\"></script>\n</body>\n</html>",
+					"file": "/home/mikes/development/trimpact-form/index.html",
+					"file_size": 193,
+					"file_write_time": 131073412248036043,
 					"settings":
 					{
-						"buffer_size": 1094,
+						"buffer_size": 193,
 						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"read_only": true,
-						"scratch": true
+						"name": "index.html"
+					}
+				},
+				{
+					"file": "/home/mikes/development/trimpact-form/package.json",
+					"settings":
+					{
+						"buffer_size": 593,
+						"line_ending": "Unix",
+						"name": "package.json"
+					}
+				},
+				{
+					"contents": "",
+					"file": "/home/mikes/development/trimpact-form/components/index.js",
+					"file_size": 0,
+					"file_write_time": 131073415230154379,
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix",
+						"name": "index.js"
+					}
+				},
+				{
+					"contents": "",
+					"file": "/home/mikes/development/trimpact-form/main.css",
+					"file_size": 0,
+					"file_write_time": 131073415478551382,
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix",
+						"name": "main.css"
+					}
+				},
+				{
+					"file": "/home/mikes/development/trimpact-form/public/index.html",
+					"settings":
+					{
+						"buffer_size": 1502,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mikes/development/trimpact-form/app/components/OLDApp.js",
+					"settings":
+					{
+						"buffer_size": 6440,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "import React from 'react';\nimport { FormBase, InputField } from 'react-serial-forms';\nimport { Grid, Row, Button, Col, FormGroup, ControlLabel, FormControl, Form, Checkbox, SelectField } from 'react-bootstrap';\n\nexport default class BootstrapForm extends FormBase {\n    constructor() {\n        super();\n        this.state = {\n            email: '',\n            name: '',\n            start: '',\n            end: '',\n            comments: '',\n            published: '',\n            checked: '',\n            url: '',\n            addedStatus: []\n       }\n    }\n\n    handleChangeName(e) {\n        this.setState({name: e.target.value})\n    }\n\n    handleChangeEmail(e) {\n        this.setState({email: e.target.value})\n    }\n\n    handleChangeStart(e) {\n        this.setState({start: e.target.value})\n    }\n\n    handleChangeEnd(e) {\n        this.setState({end: e.target.value})\n    }\n\n    handleChangeComments(e) {\n        this.setState({comments: e.target.value})\n    }\n\n    handleChangeUrl(e) {\n        this.setState({url: e.target.value})\n    }\n\n    addNewStatus() {\n\n        let self = this;\n        let statusIndex = this.state.addedStatus.length;\n        let statusKey = 'addedStatus[' + statusIndex + ']';\n        let moods = [\n          { text: 'Happy' , value: 'happy' },\n          { text: 'Aloof' , value: 'aloof' }\n        ];\n        let update = () => {\n          self.forceUpdate();\n        };\n        const status = <div key={statusIndex} className='status'>\n                <p>\n              <InputField\n                onChange={update}\n                name={statusKey + '[full_name]'}\n                placeholder='Full Name'\n                validation='required' />\n            </p>\n            <p>\n               <FormControl componentClass=\"select\" placeholder=\"select\">\n        <option value=\"select\">select</option>\n        <option value=\"other\">...</option>\n      </FormControl>\n            </p>\n          </div>\n        /*\n          <div key={statusIndex} className='status'>\n            <p>\n              <InputField\n                onChange={update}\n                name={statusKey + '[full_name]'}\n                placeholder='Full Name'\n                validation='required' />\n            </p>\n            <p>\n              <SelectField\n                onChange={update}\n                options={moods}\n                value='happy'\n                name={statusKey + '[mood]'}\n                validation='required' />\n            </p>\n          </div>\n        */\n    \n        this.setState(function(prev) {\n            prev.addedStatus.push(status)\n          return {\n            addedStatus: prev.addedStatus\n          };\n        }, update);\n      }\n\n    render() {\n        let state = this.state;\n\n        return (\n            <Form horizontal>\n                <FormGroup controlId=\"formName\">\n                    <Col componentClass={ControlLabel} sm={2}>Name</Col>\n                    <Col sm={10}>\n                        <FormControl type=\"text\" placeholder=\"John Doe\" name=\"name\" onChange={(e) => {this.handleChangeName(e)}} value={state.name}/>\n                    </Col>\n                </FormGroup>\n\n                <FormGroup controlId=\"formEmail\">\n                    <Col componentClass={ControlLabel} sm={2}>Email</Col>\n                    <Col sm={10}>\n                        <FormControl type=\"email\" placeholder=\"john.doe@example.com\" onChange={(e) => {this.handleChangeEmail(e)}} value={state.email}/>\n                    </Col>\n                </FormGroup>\n\n                <FormGroup controlId=\"formStart\">\n                    <Col componentClass={ControlLabel} sm={2}>Start</Col>\n                    <Col sm={10}>\n                        <FormControl type=\"date\" placeholder=\"Start\" onChange={(e) => {this.handleChangeStart(e)}} value={state.start}/>\n                    </Col>\n                </FormGroup>\n\n                <FormGroup controlId=\"formEnd\">\n                    <Col componentClass={ControlLabel} sm={2}>End</Col>\n                    <Col sm={10}>\n                        <FormControl type=\"date\" placeholder=\"End\" onChange={(e) => {this.handleChangeEnd(e)}} value={state.end}/>\n                    </Col>\n                </FormGroup>\n\n                <FormGroup controlId=\"formComments\">\n                    <Col componentClass={ControlLabel} sm={2}>Comments</Col>\n                    <Col sm={10}>\n                        <FormControl componentClass=\"textarea\" placeholder=\"Comments\" onChange={(e) => {this.handleChangeComments(e)}} value={state.comments}/>\n                    </Col>\n                </FormGroup>\n\n                <FormGroup>\n                    <Col smOffset={2} sm={10}>\n                        <Checkbox>Published</Checkbox>\n                    </Col>\n                </FormGroup>\n\n                <FormGroup>\n                    <Col smOffset={2} sm={10}>\n                        <Checkbox>Checked</Checkbox>\n                    </Col>\n                </FormGroup>\n\n                <FormGroup controlId=\"formUrl\">\n                    <Col componentClass={ControlLabel} sm={2}>Url</Col>\n                    <Col sm={10}>\n                        <FormControl type=\"text\" placeholder=\"http://www.example.com\" onChange={(e) => {this.handleChangeUrl(e)}} value={state.url}/>\n                    </Col>\n                </FormGroup>\n\n                <FormGroup controlId=\"formStatus\">\n                    <Col componentClass={ControlLabel} sm={2}>Status</Col>\n                    <Col sm={2}>\n                        <Button onClick={(e) => {this.addNewStatus(e)}}>\n                            <span className=\"glyphicon glyphicon-plus\"></span>\n                        </Button>\n                    </Col>\n                </FormGroup>\n\n                <div className=\"form-group row\">\n                    <ol>\n                        {state.addedStatus.map((status)=>{\n                            return status\n                        })}\n                    </ol>\n                </div>\n\n                <FormGroup>\n                    <Col smOffset={2} sm={10}>\n                        <Button type=\"submit\">Submit</Button>\n                    </Col>\n                </FormGroup>\n            </Form>\n        );\n    }\n}",
+					"file": "/home/mikes/development/trimpact-form/app/components/App.js",
+					"file_size": 6191,
+					"file_write_time": 131074396705938839,
+					"settings":
+					{
+						"buffer_size": 6191,
+						"line_ending": "Unix",
+						"name": "App.js"
+					}
+				},
+				{
+					"file": "/home/mikes/development/trimpact-form/app/components/FormExport.js",
+					"settings":
+					{
+						"buffer_size": 25051,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mikes/development/trimpact-form/.gitignore",
+					"settings":
+					{
+						"buffer_size": 29,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "import React from 'react';\nimport ReactDOM from 'react-dom';\n\nimport App from '../app/components/App';\n\nReactDOM.render(\n    <App />,\n    document.getElementById('app')\n);",
+					"file": "/home/mikes/development/trimpact-form/public/js/main.js",
+					"file_size": 169,
+					"file_write_time": 131073443078803027,
+					"settings":
+					{
+						"buffer_size": 171,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mikes/development/trimpact-form/app/main.js",
+					"settings":
+					{
+						"buffer_size": 278,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mikes/development/trimpact-form/app/styles/app.less",
+					"settings":
+					{
+						"buffer_size": 109,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mikes/development/trimpact-form/webpack.config.js",
+					"settings":
+					{
+						"buffer_size": 809,
+						"line_ending": "Unix",
+						"name": "webpack.config.js"
 					}
 				}
 			],
@@ -577,10 +810,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 255.0,
-				"last_filter": "Snippet: ",
+				"height": 354.0,
+				"last_filter": "install",
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"Snippet: ",
 						"Snippet: Prototype"
@@ -600,10 +837,6 @@
 					[
 						"extract",
 						"PackageResourceViewer: Extract Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"delete",
@@ -674,7 +907,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 338.0
+				"width": 449.0
 			},
 			"console":
 			{
@@ -695,10 +928,20 @@
 			},
 			"expanded_folders":
 			[
-				"/home/xwave/development/incremental-api"
+				"/home/mikes/development/trimpact-form",
+				"/home/mikes/development/trimpact-form/app",
+				"/home/mikes/development/trimpact-form/app/components",
+				"/home/mikes/development/trimpact-form/app/styles",
+				"/home/mikes/development/trimpact-form/public",
+				"/home/mikes/development/trimpact-form/public/build"
 			],
 			"file_history":
 			[
+				"/home/mikes/development/trimpact-form/app/components/Form.js",
+				"/home/mikes/development/trimpact-form/public/css/main.css",
+				"/home/mikes/development/trimpact-form/public/build/index.js",
+				"/home/mikes/development/trimpact-form/.gitignore",
+				"/home/mikes/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/home/xwave/development/incremental-api/app/Transformers/Transformer.php",
 				"/home/xwave/development/incremental-api/app/Lesson.php",
 				"/home/xwave/development/incremental-api/app/Transformers/LessonTransformer.php",
@@ -771,7 +1014,7 @@
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 73.0
 			},
 			"find_in_files":
 			{
@@ -785,6 +1028,37 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"selectfield",
+					"var",
+					"push",
+					"person",
+					"personIndex",
+					"addedPeople",
+					"End",
+					"Start",
+					"formHorizontal",
+					"demoform",
+					"fakeUserNameCheck",
+					"InputField",
+					"this",
+					"conso",
+					"code",
+					"id",
+					"h3",
+					"leading",
+					"Reading",
+					"Camping",
+					"Fishing",
+					"Rollerblading",
+					"file",
+					"sequence",
+					"leading",
+					"code",
+					"name",
+					"organizatie",
+					"persoana",
+					"class",
+					"app",
 					"lessons",
 					"homestead",
 					"div",
@@ -845,43 +1119,389 @@
 			"folders":
 			[
 				{
-					"path": "/home/xwave/development/incremental-api"
+					"path": "/home/mikes/development/trimpact-form"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 7,
 					"sheets":
 					[
 						{
 							"buffer": 0,
+							"file": "/home/mikes/development/trimpact-form/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1094,
+								"buffer_size": 193,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1094,
-										1094
+										165,
+										165
 									]
 								],
 								"settings":
 								{
-									"auto_indent": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_width": 2,
-									"word_wrap": true
+									"auto_name": "index.html",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/mikes/development/trimpact-form/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 593,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										83,
+										83
+									]
+								],
+								"settings":
+								{
+									"auto_name": "package.json",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/mikes/development/trimpact-form/components/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "index.js",
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/mikes/development/trimpact-form/main.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "main.css",
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/mikes/development/trimpact-form/public/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1502,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1352,
+										1352
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/mikes/development/trimpact-form/app/components/OLDApp.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6440,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										469,
+										469
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/mikes/development/trimpact-form/app/components/App.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6191,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2486,
+										2486
+									]
+								],
+								"settings":
+								{
+									"auto_name": "App.js",
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2268.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/mikes/development/trimpact-form/app/components/FormExport.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 25051,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7681,
+										7681
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 8064.0,
+								"zoom_level": 1.0
+							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/mikes/development/trimpact-form/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 29,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										29,
+										29
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/mikes/development/trimpact-form/public/js/main.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 171,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										147,
+										147
+									]
+								],
+								"settings":
+								{
+									"_anf_new": "",
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/mikes/development/trimpact-form/app/main.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 278,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										122,
+										122
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/mikes/development/trimpact-form/app/styles/app.less",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 109,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										109,
+										109
+									]
+								],
+								"settings":
+								{
+									"_anf_new": "",
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/home/mikes/development/trimpact-form/webpack.config.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 809,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										239,
+										239
+									]
+								],
+								"settings":
+								{
+									"auto_name": "webpack.config.js",
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
 							"type": "text"
 						}
 					]
@@ -927,7 +1547,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "Packages/User/builds/PSR-2.sublime-build",
-			"position": "0,0,0,0,0,342,232,982,712,1920,1080",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
 			"project": "",
 			"replace":
 			{
@@ -940,6 +1560,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"index",
+						"public/index.html"
+					],
+					[
+						"null.php",
+						"vendor/everyman/neo4jphp/lib/Everyman/Neo4j/Cache/Null.php"
+					],
 					[
 						"create",
 						"database/migrations/2016_04_17_095219_create_lessons_table.php"
@@ -1066,7 +1694,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 22,
+			"window_id": 25,
 			"workspace_name": ""
 		}
 	],

@@ -8,6 +8,7 @@
 		"AdvancedNewFile",
 		"Babel",
 		"Colorsublime",
+		"DocBlockr",
 		"Laravel 5 Artisan",
 		"Material Theme",
 		"Origami",
@@ -16,6 +17,8 @@
 		"PHP Companion",
 		"PHP Getters and Setters",
 		"SublimeLinter",
-		"SublimeLinter-php"
+		"SublimeLinter-php",
+		"TrailingSpaces",
+		"VCS Gutter"
 	]
 }
